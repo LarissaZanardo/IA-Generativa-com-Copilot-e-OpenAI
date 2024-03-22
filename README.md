@@ -1,8 +1,6 @@
 # IA-Generativa-com-Copilot-e-OpenAI
 
-# Analise-de-imagens-com-AI-Vision
-Repositorio criado para análisar imagens com inteligencia artificial do Azure.
-
+Repositorio criado para análisar laboratorio de IA-Generativa-com-Copilot-e-OpenAI
 ## Projeto Analise de dados IA Microsoft Azure
 📒 Estudante de Analise e Desenvolvimento de Sistemas |
 [FATEC-SP](https://www.fatecsp.br/)
