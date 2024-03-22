@@ -38,5 +38,7 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 
 ## 🔧 Habilidades
 Ler documentação do Azure com relação ao Copilot.
+
 Criar conta no Microsoft Azure.
-Ter conta de email outlook
+
+Ter conta de email Outlook
