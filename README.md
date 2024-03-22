@@ -32,41 +32,11 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 ![image](https://github.com/LarissaZanardo/IA-Generativa-com-Copilot-e-OpenAI/assets/161094150/803955d0-c923-41c0-8b29-8b3870d03af7)
 
 
-5- Teste a geração de código:
-
-
-6- 
-
-7- 
-
-8- 
-
-9- 
-
-10- 
-
-11- 
-
-12- 
-
-13-
-
-14- 
-
-15- 
-
-## 📃📃 Análise de Documentos (Para reconhecer textos atraves de imagens)
-
-1- Na area inicial do Portal Vision, seleciona a aba "Optical character recognition" e em "Extract text from images".
-
-2- Ja podemos começar a testar com as imagens padronizadas ou inserir imagens dos nossos computadores e ele ja extrai automaticamente o texto contido na foto.
-
-3- OCR extrai o texto das imagens de forma rapida e assincrona.
-
-4- Tambem é possivel acessar a documentação [Documentação Analise de Documentos](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-ocr)
+5- Teste a geração de códigono Copilot
 
 
 
 ## 🔧 Habilidades
-Ler documentação do Azure com passo a passo e valores a serem inseridos.
+Ler documentação do Azure com relação ao Copilot.
 Criar conta no Microsoft Azure.
+Ter conta de email outlook
